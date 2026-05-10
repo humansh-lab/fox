@@ -28,23 +28,18 @@ export type TeamMember = {
 export const team: TeamMember[] = [
   {
     name: "Humansh",
-    role: "Founder",
+    role: "Founder+vfx",
     image: "/team/you.jpeg",
   },
   {
     name: "shiv",
-    role: "Manager",
+    role: "Manager+video editor",
     image: "/team/member1.png",
   },
   {
     name: "sachin",
-    role: "Editor",
+    role: "audio mixer",
     image: "/team/member2.png",
-  },
-  {
-    name: "nikhil",
-    role: "Editor",
-    image: "/team/member3.png",
   },
   {
     name: "mohit",
